@@ -29,7 +29,7 @@ The dataset contains information about thousands of video games, including:
   - Other Regions
   - Global
 
-**Source:** [Kaggle - Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings) (or mention your source if different)
+**Source:** [Kaggle - Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings)
 
 ---
 
