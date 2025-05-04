@@ -8,7 +8,7 @@ pd.set_option('display.max_column', None)
 
 #------- DATASET EXPLORATION----------
 
-df= pd.read_csv(r"D:\DEVELOPMENT\PROJECTS\EDA\vgsales.csv")
+df= pd.read_csv(r"vgsales.csv")
 # print(df.head(5))
 
 #looking at the data size , feature numbers 
