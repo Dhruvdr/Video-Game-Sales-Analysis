@@ -65,7 +65,6 @@ An interactive Tableau dashboard was created to:
 - Compare regional sales across time
 - Visualize top-selling games and publishers
 
-**🔗 Tableau Dashboard Link:** [Insert Your Tableau Public Link Here]
 
 ---
 
